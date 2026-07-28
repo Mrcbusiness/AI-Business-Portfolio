@@ -1,41 +1,80 @@
-# AI Business Portfolio
+# 🚀 AI Business Portfolio
 
-Welcome!
-
-This repository contains AI-powered business applications developed using Claude AI.
+> AI-powered business applications for HR, People Analytics, Compensation, Business Intelligence and Agribusiness.
 
 ---
 
-## Projects
+# 👋 About Me
 
-### 🚜 Banco de Operações Agro
+I'm a Business Intelligence and People Analytics professional passionate about transforming business processes through Artificial Intelligence.
 
-Agribusiness operations platform.
+I develop practical AI applications using Claude AI to solve real-world business challenges in HR, Compensation, Strategic Planning, Operations and Agribusiness.
 
-Demo:
+---
+
+# 🛠 Technologies
+
+- 🤖 Claude AI
+- 📊 Power BI
+- 📈 Excel
+- 📋 People Analytics
+- 💼 Compensation
+- 📉 Business Intelligence
+- 🌱 Agribusiness
+- 🧠 Artificial Intelligence
+
+---
+
+# 🚜 Banco de Operações Agro
+
+Sistema desenvolvido para apoiar o gerenciamento de operações agrícolas.
+
+### 🔗 Live Demo
 
 https://shre.ink/Bancodeoperacoesagro3
 
 ---
 
-### 📊 People Analytics
+# 📊 People Analytics Dashboard
 
-HR analytics dashboards.
+Aplicação criada com Claude AI para análise de indicadores de pessoas.
 
-Demo:
+### 🔗 Live Demo
 
 https://claude.ai/public/artifacts/db8b4871-cf82-44a7-ad54-300db2c9d6a6
 
 ---
 
-### 🤖 AI Business Assistant
+# 🤖 AI Business Assistant
 
-Business application developed with Claude.
+Assistente inteligente para apoio à tomada de decisão empresarial.
 
-Demo:
+### 🔗 Live Demo
 
 https://claude.ai/public/artifacts/df58f976-365c-4776-ad67-d841934e18dd
 
 ---
 
-More projects coming soon.
+# 🎯 Objective
+
+Create AI-powered business applications that improve decision making, automate processes and increase operational efficiency.
+
+---
+
+# 📌 More projects coming soon...
+
+✔ Compensation Simulator
+
+✔ Salary Benchmark Platform
+
+✔ HR KPI Dashboard
+
+✔ Workforce Analytics
+
+✔ Career Framework
+
+✔ Strategic Planning Dashboard
+
+✔ AI Assistants
+
+✔ Business Automation
