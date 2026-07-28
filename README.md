@@ -89,3 +89,18 @@ Create AI-powered business applications that improve decision making, automate p
 ✔ AI Assistants
 
 ✔ Business Automation
+
+
+---
+
+## 🤝 Contributing
+
+Contributions, ideas and suggestions are always welcome.
+
+See the CONTRIBUTING.md file for more information.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
