@@ -106,4 +106,12 @@ Future versions of these projects will include:
 - Community contributions
 - Continuous improvements
 
+
+
+## Why I'm Building This
+
+My objective is to make Artificial Intelligence practical for HR, Business Intelligence and Agribusiness professionals by creating applications that solve real-world business problems.
+
+These projects are continuously evolving and will gradually become more open, documented and reusable by the community.
+
 Thank you for following the project!
