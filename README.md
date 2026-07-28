@@ -1,3 +1,14 @@
+![Claude AI](https://img.shields.io/badge/Claude-AI-orange)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Business-yellow)
+
+![People Analytics](https://img.shields.io/badge/People-Analytics-blue)
+
+![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-green)
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial-Intelligence-red)
+
+
 # 🚀 AI Business Portfolio
 
 > AI-powered business applications for HR, People Analytics, Compensation, Business Intelligence and Agribusiness.
